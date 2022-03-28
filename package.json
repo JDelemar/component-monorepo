@@ -6,8 +6,8 @@
     "start": "nx serve",
     "build": "nx build",
     "test": "nx test",
-    "storybook": "nx run web:storybook",
-    "build-storybook": "nx build-storybook web",
+    "storybook": "nx run angular-web:storybook",
+    "build-storybook": "nx build-storybook angular-web",
     "postinstall": "ngcc --properties es2015 browser module main"
   },
   "private": true,

@@ -50,5 +50,5 @@
       "style": "scss"
     }
   },
-  "defaultProject": "web"
+  "defaultProject": "angular-web"
 }
