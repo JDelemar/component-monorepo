@@ -4,6 +4,8 @@
     "angular-material": "libs/angular-material",
     "angular-ui": "libs/angular-ui",
     "angular-web": "apps/angular-web",
-    "angular-web-e2e": "apps/angular-web-e2e"
+    "angular-web-e2e": "apps/angular-web-e2e",
+    "react-web": "apps/react-web",
+    "react-web-e2e": "apps/react-web-e2e"
   }
 }
